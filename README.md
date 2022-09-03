@@ -11,7 +11,7 @@
 
  -----  
 
-## MIO CANALE YT // MY YT CHANEL
+## MIO CANALE YT // MY YT CHANNEL
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) 
  ](https://youtube.com/channel/UCEkY3BqEROZ-7BwVP6IuEmQ)
    
