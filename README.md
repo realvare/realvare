@@ -4,10 +4,10 @@
 - 令 modificato // modified by vare 
 - ✧ base by `https://github.com/GataNina-Li // GataBot-MD`
 - 紗 versione // version 1.5  
-- ㌌ questo bot può essere utilizzato anche da whatsapp normale o business, essendo multi device //
+- ㌌ questo bot può essere utilizzato anche su whatsapp normale o business, essendo multi device //
              this bot can also be used by normal or business whatsapp, being multi device
 
-^ per più informazioni `wa.me/687777739`
+^ per più informazioni `wa.me/687989899`
 
  -----  
 
