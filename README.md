@@ -74,7 +74,7 @@ A sleek, highly interactive full-stack Next.js web app built from scratch - glas
 
 <div align="center">
 <p align="center">
-  <img src="https://github.com/realvare/realvare/raw/output/github-snake-dark.svg" width="100%">
+  <img src="https://github.com/realvare/realvare/blob/output/github-snake-dark.svg" width="100%">
 </p>
 </div>
 
